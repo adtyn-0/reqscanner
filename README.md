@@ -1,7 +1,7 @@
 
 # reqscanner
 
-**reqscanner** is a lightweight Python utility that scans your project for imported modules and generates a `requirements.txt` file based on what's actually used and installed.
+**reqscanner** is a lightweight Python utility script that scans your project for imported modules and generates a `requirements.txt` file based on what's actually used and installed.
 
 It’s similar in concept to tools like `pigar`, but more minimal and customizable for personal or small-scale projects.
 
